@@ -5,3 +5,4 @@
 ### Team Members: 
 - Samantha Wanek 
 - Rachelle Fertig 
+- Brenda Aguilar
