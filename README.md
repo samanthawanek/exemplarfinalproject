@@ -1,8 +1,8 @@
-# Team Name
+# Team Name: Team Brain
 
-## Project Summary
+## Project Summary: Analyzing gaps or trends in neurodivergent brain data to evaluate the epidemic of autism
 
-### Team Members
+### Team Members: Samantha Wanek & Rachelle Fertig
 
 - 
 - 
