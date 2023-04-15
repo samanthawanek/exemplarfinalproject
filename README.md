@@ -6,4 +6,4 @@
 - Samantha Wanek 
 - Rachelle Fertig 
 - Brenda Aguilar
-- Vanessa Fernandes Da Veiga
+
