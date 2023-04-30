@@ -6,5 +6,5 @@
 - Samantha Wanek 
 - Rachelle Fertig 
 
-##Guardian Angels:
+### Guardian Angels:
 A Vacationing Wildertrek - We Appreciate You!
